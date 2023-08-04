@@ -47,3 +47,5 @@ Changing the **UI Update Rate** slider will change the rate at which the RAM and
  - Circular Progress Bar - **[Falahati](https://github.com/falahati/CircularProgressBar)**
  - UI Inspiration - **[NiceHashMiner](https://github.com/nicehash/NiceHashMiner)**
  - UI Themed Switches/Separators - **[Siticone](https://siticoneframework.com)**
+
+
